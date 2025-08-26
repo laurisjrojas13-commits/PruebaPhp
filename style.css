@@ -5,7 +5,7 @@
 
 }
 body{
-    background-color: rgb(165, 105, 165);
+    background-color: rgb(235, 216, 235);
 }
 #container{
     width: 80%;
@@ -82,7 +82,7 @@ body{
     width: 90%;
     margin: 5px;
     padding: 10px;
-    border: 1px solid rgb(255, 0, 98);
+    border: 1px solid rgb(199, 76, 123);
 }
 
 #lateral h3{
